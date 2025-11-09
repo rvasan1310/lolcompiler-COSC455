@@ -1,4 +1,4 @@
 ChatGPT was used to guide me through this project. I used it for problem solving when I got lost. 
 It helped me understand the project better. I am very thankful that you allowed
 us to use AI. I would not have been able to get this far in this project using rust.
-https://chatgpt.com/share/691018f5-1954-8003-bc27-a207dd048509
+https://chatgpt.com/g/g-p-68e1609425488191ac199cd50f66b85e/c/690a6529-ffe4-8327-92ba-510c90fba935
