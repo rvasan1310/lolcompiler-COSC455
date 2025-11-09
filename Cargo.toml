@@ -1,0 +1,8 @@
+[package]
+name = "lolcompiler"
+version = "0.1.0"
+edition = "2024"
+description = "A LOLCODE Markdown compiler that outputs HTML."
+repository = "https://github.com/rvasan1310/lolcompiler-COSC455/settings/access?guidance_task="
+
+[dependencies]

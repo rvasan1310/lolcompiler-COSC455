@@ -1,0 +1,4 @@
+ChatGPT was used to guide me through this project. I used it for problem solving when I got lost. 
+It helped me understand the project better. I am very thankful that you allowed
+us to use AI. I would not have been able to get this far in this project using rust.
+https://chatgpt.com/share/691018f5-1954-8003-bc27-a207dd048509

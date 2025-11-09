@@ -1,0 +1,52 @@
+Plain BNF 
+
+<program> ::= HAI <content> KTHXBYE
+
+<content> ::= <section> <content> | “eplsion”
+
+<section> ::= <comment> <head> <paragraph> <list> <sound> <video> 
+
+<variable_define> <variable_use> <newline> <text> 
+
+<comment> ::= OBTW <text> TLDR
+
+<head> ::= MAEK_HEAD <title> OIC
+
+<title> ::= GIMMEH_TITLE <text> MKAY
+
+<paragraph> ::= MAEK_PARAGRAF <paragraph_content> OIC
+
+<title> ::= GIMMEH_TITLE <text> MKAY
+
+<paragraph> ::= MAEK_PARAGRAF <paragraph_content> OIC
+
+<paragraph_content> ::= <pc_item> <paragraph_content> | “epsilon”
+
+<pc_item> ::= <text> | <bold> |<italics>|<list>|<newline>
+
+<bold> ::= GIMMEH_BOLD <text> MKAY
+
+<italics> ::= GIMMEH_ITALICS <text> MKAY
+
+<list> ::= MAEK_LIST <item_seq> OIC
+
+<item_seq> ::= <item> <item_seq> | <item> 
+
+<item> ::= GIMMEH_ITEM <text> MKAY
+
+<variable_define> ::= I_HAZ ID IT_IZ <text> MKAY
+
+<variable_use> ::= LEMME_SEE ID MKAY
+
+<newline> ::= GIMMEH_NEWLINE
+
+<text> ::= <word> <text_tail> 
+
+<text_tail> ::= <word> <text_tail> |”epsilon”
+
+<word> ::= WORD
+
+<identifier> ::= ID
+
+
+
