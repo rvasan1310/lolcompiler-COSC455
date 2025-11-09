@@ -4,7 +4,7 @@ Course: COSC 455 - Programming Languages
 Professor: Professor. Dehlinger
 
 -------------------------------------------------
-GitHub Repository https://github.com/rvasan1310/lolcompiler-COSC455/settings/access?guidance_task=
+GitHub Repository https://chatgpt.com/g/g-p-68e1609425488191ac199cd50f66b85e/c/690a6529-ffe4-8327-92ba-510c90fba935
 -------------------------------------------------
 
 
